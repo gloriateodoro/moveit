@@ -11,9 +11,10 @@
     --text: #666666;
     --text-highlight: #B3B9FF;
     --title: #2E384D;
-    --red: #5965E0;
+    --red: #ec093a;
     --blue-dark: #4953B8;
-    --blue-twitter: #2AA9E0;
+    --blue-twitter: #1fbcff;
+    --green: #7efa5f;
 }
 
 @media(max-width: 720px) {
